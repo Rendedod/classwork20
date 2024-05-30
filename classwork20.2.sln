@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classwork20.2", "classwork20.2.csproj", "{B17308DE-8658-49FD-9E91-EDB2A7789B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classwork20.3", "..\WPF20.3\classwork20.3.csproj", "{1187158A-ED17-4AFB-8BA4-B96AA0419D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B17308DE-8658-49FD-9E91-EDB2A7789B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17308DE-8658-49FD-9E91-EDB2A7789B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17308DE-8658-49FD-9E91-EDB2A7789B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17308DE-8658-49FD-9E91-EDB2A7789B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1187158A-ED17-4AFB-8BA4-B96AA0419D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1187158A-ED17-4AFB-8BA4-B96AA0419D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1187158A-ED17-4AFB-8BA4-B96AA0419D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1187158A-ED17-4AFB-8BA4-B96AA0419D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76BDC964-3568-49DA-97A6-F7B5AF701680}
+	EndGlobalSection
+EndGlobal
